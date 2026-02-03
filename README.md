@@ -1,4 +1,4 @@
-### Todo List App
+# Todo List App
 
 ## 🧠 How It Works
 
